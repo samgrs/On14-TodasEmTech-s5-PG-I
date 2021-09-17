@@ -95,8 +95,8 @@ const livros = [
   {
     name: 'Cem Anos de Solidão - Gabriel García Márquez (Gabo)',
     type: 'romance',
-    pages: 16,
-    recommends: 448,
+    pages: 448,
+    recommends: true,
     readed: true
   },
   {
